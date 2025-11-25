@@ -6,7 +6,7 @@ export const metadata = {
 export default function layout({ children }) {
 	return (
 		<html>
-			<body className="antialiased">
+			<body className="antialiased bg-black text-white">
                 {children}
 			</body>
 		</html>
