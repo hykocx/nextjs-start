@@ -21,10 +21,8 @@ This command will:
 
 - **Next.js** with App Router
 - **Tailwind CSS v4** with custom theme
-- **Custom components**: PageTransition, FrozenRoute
 - **Path aliases** configured (`@*` maps to root)
 - **Favicon generation** script with SVG support
-- **Black theme** with primary color palette
 - **Screenshot placeholder** for documentation
 
 ## After Installation
@@ -39,15 +37,3 @@ npm run dev
 # Generate favicon from SVG
 npm run make-favicon
 ```
-
-## Customization
-
-1. Edit `dev/icons/favicon.svg` with your logo
-2. Run `npm run make-favicon` to generate favicon.ico
-3. Update metadata in `app/(public)/layout.js`
-4. Customize colors in `styles/globals.css`
-
-## License
-
-MIT
-
