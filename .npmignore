@@ -1,0 +1,22 @@
+# Directories to exclude
+oldsrc/
+node_modules/
+.git/
+.github/workflows/
+
+# Files to exclude
+.gitignore
+.DS_Store
+*.log
+*.md
+!README.md
+.env
+.env.*
+*.plan.md
+
+# Keep these for the package
+!bin/
+!src/
+!package.json
+!README.md
+

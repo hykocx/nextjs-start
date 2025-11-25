@@ -1,0 +1,11 @@
+import "@styles/globals.css";
+
+export const metadata = {
+	title: "",
+	description: "",
+};
+
+export default function RootLayout({ children }) {
+	return children;
+}
+

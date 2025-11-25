@@ -1,0 +1,35 @@
+{
+  "name": "@hykocx/nextjs-start",
+  "version": "1.0.0",
+  "description": "A Next.js starter template with Tailwind CSS and custom configuration",
+  "type": "module",
+  "bin": {
+    "nextjs-start": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nextjs",
+    "tailwind",
+    "starter",
+    "template",
+    "cli"
+  ],
+  "author": "hykocx",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hykocx/nextjs-start.git"
+  },
+  "dependencies": {
+    "fs-extra": "^11.2.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
+
