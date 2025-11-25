@@ -37,3 +37,11 @@ npm run dev
 # Generate favicon from SVG
 npm run make-favicon
 ```
+
+## Contributing
+
+Feel free to contribute to this project! Don't worry about following strict guidelines or templates. Simply submit your changes and I will review them. Whether it's a bug fix, feature addition, or documentation improvement, all contributions are welcome.
+
+## License
+
+This project is licensed under the GNU General Public License v3.0 - see the [LICENSE.txt](LICENSE.txt) file for details.
